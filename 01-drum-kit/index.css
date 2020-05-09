@@ -1,0 +1,26 @@
+.keys {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.key {
+  border: 0.4rem solid black;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  transition: all 0.1s ease;
+  width: 10rem;
+  text-align: center;
+}
+
+.playing {
+  transform: scale(1.2);
+  border-color: yellow;
+}
+
+kbd {
+  display: block;
+  font-size: 4rem;
+}

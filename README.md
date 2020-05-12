@@ -1,4 +1,4 @@
-# javascript30
+# [javascript30](https://github.com/nvthai/javascript30)
 A Javascript app everyday in 30 days
 
 # Projects
